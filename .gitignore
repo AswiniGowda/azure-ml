@@ -1,0 +1,6 @@
+venv/
+secret.yaml
+__pycache__/
+*.pyc
+model.pkl
+metrics.json
